@@ -1,0 +1,88 @@
+#div4 {
+    height: 60vh;
+    margin: 10px;
+    position: relative;
+    background: url("./../../../../assets/img/hoja.jpg");
+}
+
+#div4>#hijoDiv4>.textDiv4 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 10%;
+}
+
+#div4>#hijoDiv4>.textDiv4-2 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 40%;
+    font-weight: bold;
+}
+
+#div4>#hijoDiv4>.textDiv4-3 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 45%;
+}
+
+#div4>#hijoDiv4>.textDiv4-4 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 50%;
+    font-weight: bold;
+}
+
+#div4>#hijoDiv4>.textDiv4-5 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 55%;
+}
+
+#div4>#hijoDiv4>.textDiv4-6 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 60%;
+    font-weight: bold;
+}
+
+#div4>#hijoDiv4>.textDiv4-7 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 65%;
+}
+
+#div4>#hijoDiv4>.contactanos {
+    position: absolute;
+    color: green;
+    font-family: "Raleway", sans-serif;
+    left: 10%;
+    top: 35%;
+    font-weight: bold;
+}
+
+#div4>#hijoDiv4>.forum {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 56px;
+    left: 10%;
+    top: 15%;
+    font-weight: bold;
+}
+
+#div4>#hijoDiv4>.forum>span {
+    color: limegreen;
+}

@@ -1,0 +1,80 @@
+#div2 {
+    height: 60vh;
+    margin: 10px;
+    background: darkslategray;
+    position: relative;
+}
+
+#div2>#hijoDiv2>h3 {
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    font-family: "Raleway", sans-serif;
+    margin-bottom: 0px;
+}
+
+#div2>#hijoDiv2>h3>span {
+    color: limegreen;
+    font-size: 32px;
+}
+
+#div2>#hijoDiv2>h4 {
+    color: white;
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+    margin-top: 0px;
+}
+
+#div2>#hijoDiv2>.circulo-2 {
+    height: 160px;
+    width: 160px;
+    border: 8px solid limegreen;
+    border-radius: 100px;
+    background: transparent;
+    position: absolute;
+    left: 23%;
+}
+
+#div2>#hijoDiv2>.text3 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    font-size: 20px;
+    left: 28%;
+    top: 30%;
+    text-align: center;
+}
+
+#div2>#hijoDiv2>.text3 span {
+    font-size: 18px;
+}
+
+#div2>#hijoDiv2>.text4 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 10px;
+    left: 2%;
+    top: 63%;
+}
+
+#div2>#hijoDiv2>.text5 {
+    position: absolute;
+    color: limegreen;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 14px;
+    top: 80%;
+    left: 33%;
+}
+
+#div2>#hijoDiv2>.text6 {
+    position: absolute;
+    color: white;
+    font-family: "Raleway", sans-serif;
+    text-align: center;
+    font-size: 12px;
+    top: 85%;
+    left: 18%;
+}
